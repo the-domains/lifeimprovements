@@ -6,9 +6,13 @@ color:
   saturation: 0.1551303130108863
   rhythmicContrast: 0.9786871077958494
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: LifeImprovements
+navigation:
+  - name: Find out how you fit in Your Relationship
+    url: 'http://www.energeticawesomeness.com/'
+    type: external
