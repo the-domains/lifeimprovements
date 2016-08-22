@@ -1,16 +1,16 @@
-typography_spectrum: 0.6817732686176896
+layout_spectrum: 0.7987106507644057
+typography_spectrum: 0.7258256587665528
 color:
-  brandStrength: 0.4285297249443829
-  lightness: 0.5443808219861239
-  saturation: 0.1551303130108863
-  rhythmicContrast: 0.9786871077958494
+  brandStrength: 0.6609336328692734
+  lightness: 0.5726763138081878
+  saturation: 0.2840657979249954
+  rhythmicContrast: 0.7163972479756922
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.898318572435528
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
 name: LifeImprovements
 navigation:
   - name: Find out how you fit in Your Relationship
