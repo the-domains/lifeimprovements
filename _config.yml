@@ -1,4 +1,3 @@
-layout_spectrum: 0.898318572435528
 typography_spectrum: 0.6817732686176896
 color:
   brandStrength: 0.4285297249443829
@@ -11,8 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.898318572435528
 name: LifeImprovements
 navigation:
   - name: Find out how you fit in Your Relationship
     url: 'http://www.energeticawesomeness.com/'
     type: external
+description: It Always works
